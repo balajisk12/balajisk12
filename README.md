@@ -11,11 +11,11 @@
 I am an Information Technology student with skills in C and Java, along with knowledge of full-stack development. I am seeking a role in a company where I can contribute my ideas and receive mentorship to build a successful career.
 
 **Passionate Full-Stack Developer**  
-- Solved **140+ problems** on [LeetCode](https://leetcode.com/u/balajisk2004/)  
+- Solved **140+ problems** on [LeetCode](https://leetcode.com/u/balajisk12/)  
 - Experienced in **Java, C, Node.js**  
 - Currently learning **ServiceNow**  
 - Working with **MongoDB, MySQL, ServiceNow**  
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/balaji-s-841b52285/)  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/balajisk12/)  
 - Additional Skill: **ServiceNow**
 
 
@@ -24,7 +24,7 @@ I am an Information Technology student with skills in C and Java, along with kno
 ### 📊 LeetCode Stats
 <div align="center">
   <a href="https://leetcode.com/u/balajisk2004/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/balajisk2004?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/balajisk12?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats"/>
   </a>
 </div>
 
@@ -56,7 +56,7 @@ I am an Information Technology student with skills in C and Java, along with kno
 
 ### Connect With Me
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaji-s-841b52285/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balajisk12/)
  [![GitHub](https://img.shields.io/badge/GitHub-130C1C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balajisk12)
- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/balajisk2004/)
+ [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/balajisk12/)
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9344001833)
