@@ -2,7 +2,7 @@
 
 ## Hello, I'm *BALAJI S* 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%7C+Frontend+%7C+Problem+Solver;Currently+Learning+Servicenow!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%7C+Frontend+%7C+Problem+Solver;ServiceNow+Certified+System+Administrator;ServiceNow+Certified+Application+Developer)
 
 </div>
 
