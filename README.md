@@ -11,7 +11,7 @@
 I am an Information Technology student with skills in C and Java, along with knowledge of full-stack development. I am seeking a role in a company where I can contribute my ideas and receive mentorship to build a successful career.
 
 **Passionate Full-Stack Developer**  
-- Solved **140+ problems** on [LeetCode](https://leetcode.com/u/balajisk12/)  
+- Solved **170+ problems** on [LeetCode](https://leetcode.com/u/balajisk12/)  
 - Experienced in **Java, python,django,ServiceNow**  
 - Working with **MongoDB, MySQL, ServiceNow**  
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/balajisk12/)  
