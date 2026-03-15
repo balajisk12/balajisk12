@@ -12,11 +12,9 @@ I am an Information Technology student with skills in C and Java, along with kno
 
 **Passionate Full-Stack Developer**  
 - Solved **140+ problems** on [LeetCode](https://leetcode.com/u/balajisk12/)  
-- Experienced in **Java, C, Node.js**  
-- Currently learning **ServiceNow**  
+- Experienced in **Java, python,django,ServiceNow**  
 - Working with **MongoDB, MySQL, ServiceNow**  
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/balajisk12/)  
-- Additional Skill: **ServiceNow**
 
 
 ---
@@ -42,7 +40,7 @@ I am an Information Technology student with skills in C and Java, along with kno
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 #### 🏠 Backend
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
 #### 🛢 Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
